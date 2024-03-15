@@ -1,2 +1,2 @@
 # Social-Pi-Game
-Social nft trade and adventure game
+Social nft trade and adventure game  
